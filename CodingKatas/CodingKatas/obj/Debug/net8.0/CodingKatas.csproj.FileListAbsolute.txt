@@ -1,0 +1,29 @@
+C:\Users\jpesoa\source\repos\CodingKatas\CodingKatas\bin\Debug\net8.0\CodingKatas.exe
+C:\Users\jpesoa\source\repos\CodingKatas\CodingKatas\bin\Debug\net8.0\CodingKatas.deps.json
+C:\Users\jpesoa\source\repos\CodingKatas\CodingKatas\bin\Debug\net8.0\CodingKatas.runtimeconfig.json
+C:\Users\jpesoa\source\repos\CodingKatas\CodingKatas\bin\Debug\net8.0\CodingKatas.dll
+C:\Users\jpesoa\source\repos\CodingKatas\CodingKatas\bin\Debug\net8.0\CodingKatas.pdb
+C:\Users\jpesoa\source\repos\CodingKatas\CodingKatas\obj\Debug\net8.0\CodingKatas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpesoa\source\repos\CodingKatas\CodingKatas\obj\Debug\net8.0\CodingKatas.AssemblyInfoInputs.cache
+C:\Users\jpesoa\source\repos\CodingKatas\CodingKatas\obj\Debug\net8.0\CodingKatas.AssemblyInfo.cs
+C:\Users\jpesoa\source\repos\CodingKatas\CodingKatas\obj\Debug\net8.0\CodingKatas.csproj.CoreCompileInputs.cache
+C:\Users\jpesoa\source\repos\CodingKatas\CodingKatas\obj\Debug\net8.0\CodingKatas.dll
+C:\Users\jpesoa\source\repos\CodingKatas\CodingKatas\obj\Debug\net8.0\refint\CodingKatas.dll
+C:\Users\jpesoa\source\repos\CodingKatas\CodingKatas\obj\Debug\net8.0\CodingKatas.pdb
+C:\Users\jpesoa\source\repos\CodingKatas\CodingKatas\obj\Debug\net8.0\CodingKatas.genruntimeconfig.cache
+C:\Users\jpesoa\source\repos\CodingKatas\CodingKatas\obj\Debug\net8.0\ref\CodingKatas.dll
+C:\Users\jpesoa\Downloads\SOE - UAGRM\1 MDEISV2E5\5 Principios y Patrones de Diseño\2\3 Practico Kata ISP\KataISP\CodingKatas\CodingKatas\bin\Debug\net8.0\CodingKatas.exe
+C:\Users\jpesoa\Downloads\SOE - UAGRM\1 MDEISV2E5\5 Principios y Patrones de Diseño\2\3 Practico Kata ISP\KataISP\CodingKatas\CodingKatas\bin\Debug\net8.0\CodingKatas.deps.json
+C:\Users\jpesoa\Downloads\SOE - UAGRM\1 MDEISV2E5\5 Principios y Patrones de Diseño\2\3 Practico Kata ISP\KataISP\CodingKatas\CodingKatas\bin\Debug\net8.0\CodingKatas.runtimeconfig.json
+C:\Users\jpesoa\Downloads\SOE - UAGRM\1 MDEISV2E5\5 Principios y Patrones de Diseño\2\3 Practico Kata ISP\KataISP\CodingKatas\CodingKatas\bin\Debug\net8.0\CodingKatas.dll
+C:\Users\jpesoa\Downloads\SOE - UAGRM\1 MDEISV2E5\5 Principios y Patrones de Diseño\2\3 Practico Kata ISP\KataISP\CodingKatas\CodingKatas\bin\Debug\net8.0\CodingKatas.pdb
+C:\Users\jpesoa\Downloads\SOE - UAGRM\1 MDEISV2E5\5 Principios y Patrones de Diseño\2\3 Practico Kata ISP\KataISP\CodingKatas\CodingKatas\obj\Debug\net8.0\CodingKatas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpesoa\Downloads\SOE - UAGRM\1 MDEISV2E5\5 Principios y Patrones de Diseño\2\3 Practico Kata ISP\KataISP\CodingKatas\CodingKatas\obj\Debug\net8.0\CodingKatas.AssemblyInfoInputs.cache
+C:\Users\jpesoa\Downloads\SOE - UAGRM\1 MDEISV2E5\5 Principios y Patrones de Diseño\2\3 Practico Kata ISP\KataISP\CodingKatas\CodingKatas\obj\Debug\net8.0\CodingKatas.AssemblyInfo.cs
+C:\Users\jpesoa\Downloads\SOE - UAGRM\1 MDEISV2E5\5 Principios y Patrones de Diseño\2\3 Practico Kata ISP\KataISP\CodingKatas\CodingKatas\obj\Debug\net8.0\CodingKatas.csproj.CoreCompileInputs.cache
+C:\Users\jpesoa\Downloads\SOE - UAGRM\1 MDEISV2E5\5 Principios y Patrones de Diseño\2\3 Practico Kata ISP\KataISP\CodingKatas\CodingKatas\obj\Debug\net8.0\CodingKatas.sourcelink.json
+C:\Users\jpesoa\Downloads\SOE - UAGRM\1 MDEISV2E5\5 Principios y Patrones de Diseño\2\3 Practico Kata ISP\KataISP\CodingKatas\CodingKatas\obj\Debug\net8.0\CodingKatas.dll
+C:\Users\jpesoa\Downloads\SOE - UAGRM\1 MDEISV2E5\5 Principios y Patrones de Diseño\2\3 Practico Kata ISP\KataISP\CodingKatas\CodingKatas\obj\Debug\net8.0\refint\CodingKatas.dll
+C:\Users\jpesoa\Downloads\SOE - UAGRM\1 MDEISV2E5\5 Principios y Patrones de Diseño\2\3 Practico Kata ISP\KataISP\CodingKatas\CodingKatas\obj\Debug\net8.0\CodingKatas.pdb
+C:\Users\jpesoa\Downloads\SOE - UAGRM\1 MDEISV2E5\5 Principios y Patrones de Diseño\2\3 Practico Kata ISP\KataISP\CodingKatas\CodingKatas\obj\Debug\net8.0\CodingKatas.genruntimeconfig.cache
+C:\Users\jpesoa\Downloads\SOE - UAGRM\1 MDEISV2E5\5 Principios y Patrones de Diseño\2\3 Practico Kata ISP\KataISP\CodingKatas\CodingKatas\obj\Debug\net8.0\ref\CodingKatas.dll
